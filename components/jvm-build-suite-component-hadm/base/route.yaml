@@ -8,7 +8,7 @@ metadata:
     app.kubernetes.io/managed-by: kustomize
     app.kubernetes.io/name: jvm-build-suite-component-hadm
     app.kubernetes.io/part-of: jvm-build-suite-application-lqpm
-  name: jvm-build-suite-componentgtpw
+  name: jvm-build-suite-componento6vv
   namespace: jvm-build-oggj-tenant
 spec:
   port:

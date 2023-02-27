@@ -23,7 +23,7 @@ spec:
         app.kubernetes.io/instance: jvm-build-suite-component-hadm
     spec:
       containers:
-      - image: quay.io/rh_ee_tnevrlka/test-images:322863ca2f9243be85c08abdceae0331
+      - image: quay.io/rh_ee_tnevrlka/test-images@sha256:6fbf00cebd919e9506d8d105e16bf0ee5d6705b8415b304ebb96237b9487aa4a
         imagePullPolicy: Always
         livenessProbe:
           httpGet:
